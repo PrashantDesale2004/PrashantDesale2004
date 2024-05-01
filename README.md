@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/PrashantDesale2004?tab=repositories](https://github.com/PrashantDesale2004?tab=repositories)
 
-- 💬 Ask me about **React, Backend,pytho.**
+- 💬 Ask me about **React, Backend,python.**
 
 - 📫 How to reach me **prashantdesale2004@gmail.com**
 
